@@ -1,1 +1,1 @@
-Данная сборка создана с помощью OS Constructor
+This OS create in OS Constructor
